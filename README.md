@@ -314,4 +314,4 @@
 <!-- wp:paragraph -->
 <p>Thank you for reading this blog post. We hope that you enjoyed this post and this post was helpful for you. Give your feedback and suggestions in comments. For more blog post and daily updates ,&nbsp; continue to look at our website. Thank You again.</p>
 
- To see More posts <a herf="http://pcbloggers.com/cmd-commands-for-windows-and-tricks-in-windows/" >Click Here</a>.
+ To see More posts <a href="http://pcbloggers.com/cmd-commands-for-windows-and-tricks-in-windows/" >Click Here</a>.
